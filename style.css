@@ -1,0 +1,19 @@
+table{
+    margin: 0 auto;
+  }
+  
+  th{
+    background-color: rgb(154, 90, 177);
+    padding:5px 20px;
+    color:whitesmoke
+  }
+  
+  .table-data {
+    text-align: center;
+    padding: 5px 10px;
+    background-color:rgb(228, 206, 236)
+  }
+
+  h1{
+    text-align: center;
+  }
